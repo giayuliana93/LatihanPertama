@@ -27,7 +27,7 @@ public class UTS_No_II {
 
             System.out.println("Nilai minimal dari deretan anggka di atas adalah : " + NilaiMin);
             System.out.println("Jumlah nilai minimalnya : " + jml);
-
+           
         } else if (pil == 'B') {
             for (i = 0; i < Nilai; i++) {
                 bil1 = input.nextInt();
@@ -39,7 +39,7 @@ public class UTS_No_II {
                 }
 
             }
-            System.out.println("Nilai maksimal dari deretan anggka di atas adalah : " + NilaiMin);
+            System.out.println("Nilai maksimal dari deretan anggka di atas adalah : " + NilaiMax);
             System.out.println("Jumlah nilai minimalnya : " + jml);
         }
     }
